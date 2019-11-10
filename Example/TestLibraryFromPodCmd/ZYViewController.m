@@ -8,6 +8,9 @@
 
 #import "ZYViewController.h"
 //#import <TestLibraryFromPodCmd/ReplaceMe.h>
+//#import "TestLibraryFromPodCmd/ReplaceMe.h"
+//#import "ReplaceMe.h"
+//#import <ReplaceMe.h>
 
 @interface ZYViewController ()
 
