@@ -1,0 +1,22 @@
+{
+  "name": "TestLibraryFromPodCmd",
+  "version": "0.1.0",
+  "summary": "A short description of TestLibraryFromPodCmd.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/AsteriskZuo/TestLibraryFromPodCmd",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AsteriskZuo": "zuoyuhsywn@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/AsteriskZuo/TestLibraryFromPodCmd.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestLibraryFromPodCmd/Classes/**/*"
+}

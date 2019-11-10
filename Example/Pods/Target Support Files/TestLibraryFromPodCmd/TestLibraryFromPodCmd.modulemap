@@ -1,0 +1,6 @@
+framework module TestLibraryFromPodCmd {
+  umbrella header "TestLibraryFromPodCmd-umbrella.h"
+
+  export *
+  module * { export * }
+}

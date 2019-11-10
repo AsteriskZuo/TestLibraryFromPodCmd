@@ -1,0 +1,27 @@
+PODS:
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+  - TestLibraryFromPodCmd (0.1.0)
+
+DEPENDENCIES:
+  - Expecta
+  - Specta
+  - TestLibraryFromPodCmd (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  TestLibraryFromPodCmd:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+  TestLibraryFromPodCmd: 1e213d2a39ec4c12bbe97d567aced884bde25f09
+
+PODFILE CHECKSUM: 6fb2923243c626583f020ade6791237ce0e6c7a7
+
+COCOAPODS: 1.8.3
